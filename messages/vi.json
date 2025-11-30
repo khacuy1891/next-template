@@ -1,0 +1,35 @@
+{
+    "HomePage": {
+        "title": "Chào mừng đến với ứng dụng của tôi",
+        "blog": "Bài viết",
+        "contact": "Liên hệ",
+        "home": "Trang chủ"
+    },
+    "BlogPage": {
+        "title": "Blog của chúng tôi",
+        "description": "Những suy nghĩ mới nhất về công nghệ, phát triển và hơn thế nữa.",
+        "readMore": "Đọc thêm"
+    },
+    "LoginPage": {
+        "title": "Đăng nhập vào tài khoản của bạn",
+        "back": "quay lại blog",
+        "button": {
+            "signIn": "Đăng nhập",
+            "signingIn": "Đang đăng nhập..."
+        }
+    },
+    "RegisterPage": {
+        "title": "Đăng ký",
+        "button": {
+            "signIn": "Đăng ký",
+            "signingIn": "Đang đăng ký..."
+        }
+    },
+    "UserProfile": {
+        "profile": "Hồ sơ",
+        "settings": "Cài đặt",
+        "logout": "Đăng xuất",
+        "login": "Đăng nhập",
+        "register": "Đăng ký"
+    }
+}
