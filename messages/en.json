@@ -1,0 +1,38 @@
+{
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "HomePage": {
+        "title": "Welcome to my app",
+        "blog": "Blog",
+        "contact": "Contact",
+        "home": "Home"
+    },
+    "BlogPage": {
+        "title": "Our Blog",
+        "description": "Latest thoughts on tech, development, and more.",
+        "readMore": "Read more"
+    },
+    "LoginPage": {
+        "title": "Sign in to your account",
+        "back": "go back to blog",
+        "button": {
+            "signIn": "Sign in",
+            "signingIn": "Signing in..."
+        }
+    },
+    "RegisterPage": {
+        "title": "Register",
+        "button": {
+            "signIn": "Register",
+            "signingIn": "Registering..."
+        }
+    },
+    "UserProfile": {
+        "profile": "Profile",
+        "settings": "Settings",
+        "logout": "Logout",
+        "login": "Login",
+        "register": "Register"
+    }
+}
